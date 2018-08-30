@@ -1,4 +1,4 @@
-1.fonksiyonlar(functions) 
-2.gorsellestirme(dataviz) 
-3.istatistik(statistics)
-4.pyspark_fonksiyonlar
+1. Fonksiyonlar (Functions) 
+2. Görsellestirme (Data Visualization) 
+3. İstatistik (Statistics)
+4. Pyspark_fonksiyonlar
