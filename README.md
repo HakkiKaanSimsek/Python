@@ -1,10 +1,4 @@
-# Python_Dersleri
-- Python'a giriş
-- Control flow ve fonksiyonlar
-- Farklı kaynaklardan veri okuma ve yazma
-- Veri temizleme yöntemleri
-- Veri manipülasyonu yöntemleri
-- Açıklayıcı veri analizi ve görselleştirme
-
-- Python faydalı fonksiyonlar
-- Python ve PySpark ortak fonksiyonlar
+1.fonksiyonlar(functions) 
+2.gorsellestirme(dataviz) 
+3.istatistik(statistics)
+4.pyspark_fonksiyonlar
